@@ -32,7 +32,7 @@ The system automatically:
 Example:
 
 ```
-![AWS ASG Architecture](architecture-diagram.png)
+AWS Architecture_ Auto Scaling Load Balancer.png
 ```
 
 ---
